@@ -18,7 +18,7 @@ class Calc {
  }
   
 public class JenkinsTut {
-  public static void main(String argsp[]) {
+  public static void main(String args[]) {
     
     Calc C = new Calc();
     System.out.println("Additions is: " + C.add(23, 23));
